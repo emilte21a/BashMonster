@@ -1,0 +1,15 @@
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\bin\Debug\net7.0\BashMonster.exe
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\bin\Debug\net7.0\BashMonster.deps.json
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\bin\Debug\net7.0\BashMonster.runtimeconfig.json
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\bin\Debug\net7.0\BashMonster.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\bin\Debug\net7.0\BashMonster.pdb
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.csproj.AssemblyReference.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.AssemblyInfoInputs.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.AssemblyInfo.cs
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.csproj.CoreCompileInputs.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\refint\BashMonster.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.pdb
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\BashMonster.genruntimeconfig.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\BashMonster\BashMonster\obj\Debug\net7.0\ref\BashMonster.dll

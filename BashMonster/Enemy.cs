@@ -10,7 +10,7 @@ public class Enemy
 public class Goblin : Enemy{
 
     public Goblin(){
-        Health = 5000;
+        Health = 2000;
     }
 
     public override void Attack()

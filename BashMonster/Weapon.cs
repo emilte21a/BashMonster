@@ -5,6 +5,7 @@ public class Weapon
     public int damage;
     public int CriticalHitDamage;
     public string Name;
+    public string[] Weapons = {"rpg", "sword", "stone", "pistol"};
 }
 
 public class RPG : Weapon
