@@ -5,6 +5,49 @@
 
 using BashMonster;
 
-Enemy enemy = new();
+Goblin enemy = new();
+Player player = new();
+Weapon weapon = new();
+RPG rPG = new();
+Sword sword = new();
+Stone stone = new();
+Pistol pistol = new();
+
+Dictionary<string, Weapon> weapons = new Dictionary<string, Weapon>();
+
+weapons.Add("rpg", rPG);
+weapons.Add("sword", sword);
+weapons.Add("stone", stone);
+weapons.Add("pistol", pistol);
+
+string PlayerWeapon;
+
+while (1 > 0)
+{
+    PlayerWeapon = player.ChooseWeapon("");
+
+    /*
+    foreach (var item in weapons)
+    {
+        if (PlayerWeapon == item.Key)
+        {
+            weapon = weapons(item.Value);
+        }
+    }
+    */
+
+    foreach (KeyValuePair<string, Weapon> item in weapons)
+    {
+        if (PlayerWeapon == item.Key)
+        {
+            weapon = weapons[item.Value];
+        }
+    }
+
+    player.AttackEnemy(weapon);
+    System.Console.WriteLine("");
+}
+
+
 
 Console.ReadLine();
